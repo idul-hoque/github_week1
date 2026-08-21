@@ -4,3 +4,5 @@ apple
 kiwi
 pineapple
 watermelon
+pomegrenate
+banana
