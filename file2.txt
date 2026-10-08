@@ -4,3 +4,5 @@ brinjal
 cabbage
 onion
 raddish
+cauliflower
+turnip
