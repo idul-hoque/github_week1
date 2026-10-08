@@ -8,3 +8,4 @@ cauliflower
 turnip
 dhaniya
 palak
+potato
