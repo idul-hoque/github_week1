@@ -6,3 +6,5 @@ onion
 raddish
 cauliflower
 turnip
+dhaniya
+palak
